@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Builds a role-based day-1 / week-1 onboarding checklist so owners stop re-explaining basics every hire.",
+  "keywords": [
+    "checklist",
+    "kairos",
+    "onboarding",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-onboarding-checklist",
+  "repository": "https://github.com/baselam88/kairos-onboarding-checklist-plugin",
+  "version": "0.1.0"
+}
